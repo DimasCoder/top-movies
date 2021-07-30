@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/best-movies/static/css/main.a695d861.chunk.css",
-    "main.js": "/best-movies/static/js/main.1662a8f1.chunk.js",
-    "main.js.map": "/best-movies/static/js/main.1662a8f1.chunk.js.map",
-    "runtime-main.js": "/best-movies/static/js/runtime-main.0f2035bf.js",
-    "runtime-main.js.map": "/best-movies/static/js/runtime-main.0f2035bf.js.map",
-    "static/js/2.12c537bd.chunk.js": "/best-movies/static/js/2.12c537bd.chunk.js",
-    "static/js/2.12c537bd.chunk.js.map": "/best-movies/static/js/2.12c537bd.chunk.js.map",
-    "static/js/3.7368edcd.chunk.js": "/best-movies/static/js/3.7368edcd.chunk.js",
-    "static/js/3.7368edcd.chunk.js.map": "/best-movies/static/js/3.7368edcd.chunk.js.map",
-    "index.html": "/best-movies/index.html",
-    "static/css/main.a695d861.chunk.css.map": "/best-movies/static/css/main.a695d861.chunk.css.map",
-    "static/js/2.12c537bd.chunk.js.LICENSE.txt": "/best-movies/static/js/2.12c537bd.chunk.js.LICENSE.txt",
-    "static/media/ezgif.com-gif-maker-copia-1.026730f3.gif": "/best-movies/static/media/ezgif.com-gif-maker-copia-1.026730f3.gif"
+    "main.css": "/top-movies/static/css/main.a695d861.chunk.css",
+    "main.js": "/top-movies/static/js/main.1662a8f1.chunk.js",
+    "main.js.map": "/top-movies/static/js/main.1662a8f1.chunk.js.map",
+    "runtime-main.js": "/top-movies/static/js/runtime-main.34cdb50a.js",
+    "runtime-main.js.map": "/top-movies/static/js/runtime-main.34cdb50a.js.map",
+    "static/js/2.12c537bd.chunk.js": "/top-movies/static/js/2.12c537bd.chunk.js",
+    "static/js/2.12c537bd.chunk.js.map": "/top-movies/static/js/2.12c537bd.chunk.js.map",
+    "static/js/3.7368edcd.chunk.js": "/top-movies/static/js/3.7368edcd.chunk.js",
+    "static/js/3.7368edcd.chunk.js.map": "/top-movies/static/js/3.7368edcd.chunk.js.map",
+    "index.html": "/top-movies/index.html",
+    "static/css/main.a695d861.chunk.css.map": "/top-movies/static/css/main.a695d861.chunk.css.map",
+    "static/js/2.12c537bd.chunk.js.LICENSE.txt": "/top-movies/static/js/2.12c537bd.chunk.js.LICENSE.txt",
+    "static/media/ezgif.com-gif-maker-copia-1.026730f3.gif": "/top-movies/static/media/ezgif.com-gif-maker-copia-1.026730f3.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f2035bf.js",
+    "static/js/runtime-main.34cdb50a.js",
     "static/js/2.12c537bd.chunk.js",
     "static/css/main.a695d861.chunk.css",
     "static/js/main.1662a8f1.chunk.js"
