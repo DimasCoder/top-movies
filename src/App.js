@@ -63,8 +63,8 @@ class App extends Component {
                                 <Header search={this.inputSearch}/>
                                 <Line/>
                                 <Switch>
-                                    <Route exact path={"/"} render={() => <TopMovies moviesToShow={moviesToShow}/>}/>
-                                    <Route exact path="/movie/:id" render={(props) => <MoviePage {...props}/>}/>
+                                    <Route exact path={["/top-movies/"]} render={() => <TopMovies moviesToShow={moviesToShow}/>}/>
+                                    <Route exact path="/movie/:id/" render={(props) => <MoviePage {...props}/>}/>
                                 </Switch>
                             </Router>
                         </div>

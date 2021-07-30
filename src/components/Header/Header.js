@@ -13,7 +13,7 @@ const Header = (props) => {
     }
     return (
                 <div className="header__inner">
-                    <Link to={"/"}>
+                    <Link to={"/top-movies/"}>
                         <img src={logo} alt="Logo"/>
                     </Link>
                     <div className="brand-container">
